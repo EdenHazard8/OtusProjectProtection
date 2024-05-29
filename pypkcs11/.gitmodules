@@ -1,0 +1,3 @@
+[submodule "pycryptoki-install"]
+	path = pycryptoki-install
+	url = ../../TestDep/pycryptoki.git

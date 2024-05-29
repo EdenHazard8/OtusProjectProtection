@@ -1,0 +1,7 @@
+pytest==6.1.2
+pytest-html==1.22.1
+pytest-rerunfailures
+pytest-timeout
+pyyaml
+psutil
+allure-pytest

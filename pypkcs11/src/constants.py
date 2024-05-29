@@ -1,0 +1,15 @@
+from pycryptoki import defines
+
+
+DICT_TEMPLATE = {
+    "CKO_DATA": defines.CKO_DATA,
+    "CKO_CERTIFICATE": defines.CKO_CERTIFICATE,
+    "CKO_PUBLIC_KEY": defines.CKO_PUBLIC_KEY,
+    "CKO_PRIVATE_KEY": defines.CKO_PRIVATE_KEY,
+    "CKO_SECRET_KEY": defines.CKO_SECRET_KEY,
+    "CKO_HW_FEATURE": defines.CKO_HW_FEATURE,
+    "CKO_DOMAIN_PARAMETERS": defines.CKO_DOMAIN_PARAMETERS,
+    "CKO_MECHANISM": defines.CKO_MECHANISM,
+    "CKO_OTP_KEY": defines.CKO_OTP_KEY,
+    "CKO_VENDOR_DEFINED": defines.CKO_VENDOR_DEFINED
+}
